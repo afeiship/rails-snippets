@@ -12,7 +12,7 @@ gem 'pry-byebug', group: [:development, :test]
 <% binding.pry %>
 ```
 
-## debug in model:
+## debug in ruby:
 ```rb
 binding.pry
 ```
