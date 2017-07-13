@@ -4,8 +4,8 @@
 
 ## snippets:
 ```rb
-private
-  def allow_params
-    params.require(:model).permit(:field1, :field2)
-  end
+  private
+    def allow_params
+      params.require(:model).permit(:field1, :field2)
+    end
 ```

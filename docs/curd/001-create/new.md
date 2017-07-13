@@ -1,9 +1,8 @@
 # new
-> New page
+> GET /models/new
 
 ## snippets:
 ```rb
-  # GET /models/new
   def new
     @post = Model.new
   end

@@ -1,4 +1,7 @@
 - CURD
   - [create](/curd/001-create/create)
   - [new](/curd/001-create/new)
+  - [edit](/curd/002-update/edit)
+  - [update](/curd/002-update/update)
   - [allow-params](/curd/005-allow-params/allow-params)
+  - [set-item](/curd/006-set-item/set-item)
