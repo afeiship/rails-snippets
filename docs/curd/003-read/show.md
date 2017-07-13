@@ -3,7 +3,7 @@
 
 ## snippets:
 ```rb
-  def show
-    set_item
-  end
+def show
+  set_item
+end
 ```

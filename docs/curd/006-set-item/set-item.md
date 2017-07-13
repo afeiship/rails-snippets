@@ -3,7 +3,7 @@
 
 ## snippets:
 ```rb
-  def set_item
-    @post = Model.find(params[:id])
-  end
+def set_item
+  @post = Model.find(params[:id])
+end
 ```

@@ -3,7 +3,7 @@
 
 ## snippets:
 ```rb
-  def index
-    @items = Model.all
-  end
+def index
+  @items = Model.all
+end
 ```

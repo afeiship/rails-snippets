@@ -3,7 +3,7 @@
 
 ## snippets:
 ```rb
-  def new
-    @post = Model.new
-  end
+def new
+  @post = Model.new
+end
 ```
