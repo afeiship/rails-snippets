@@ -3,7 +3,7 @@
 
 
 ## see:
-+ https://github.com/afeiship/rails-snippets
++ https://afeiship.github.io/rails-snippets/
 
 ## fork & edit:
 ```bash
