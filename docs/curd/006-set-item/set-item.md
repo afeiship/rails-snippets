@@ -4,6 +4,6 @@
 ## snippets:
 ```rb
 def set_item
-  @post = Model.find(params[:id])
+  @item = Model.find(params[:id])
 end
 ```
