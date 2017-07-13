@@ -14,6 +14,7 @@ end
 ```
 
 ## views:
-```rb
+```erb
 <%= link_to 'delete', post_path(@post), method: :delete %>
+<%= link_to 'delete', post_path(@post), method: :delete, data: { confirm: 'Are you sure? This cannot be undone.' } %>
 ```
