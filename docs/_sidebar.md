@@ -13,3 +13,6 @@
 
   - [allow-params](/curd/005-allow-params/allow-params)
   - [set-item](/curd/006-set-item/set-item)
+
+- Debug
+  - [pry](/debug/pry)
