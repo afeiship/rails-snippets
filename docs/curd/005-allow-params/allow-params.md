@@ -1,5 +1,5 @@
 # allow-params
-> Never trust parameters from the scary internet, only allow the white list through.
+!> Never trust parameters from the scary internet, only allow the white list through.
 
 
 ## snippets:
