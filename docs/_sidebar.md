@@ -1,3 +1,4 @@
 - CURD
-    - [create](/curd/001-create/create)
-    - [new](/curd/001-create/new)
+  - [create](/curd/001-create/create)
+  - [new](/curd/001-create/new)
+  - [allow-params](/curd/005-allow-params/allow-params)
