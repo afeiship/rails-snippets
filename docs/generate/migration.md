@@ -5,4 +5,4 @@
 ```bash
 rails g migration create_categories
 ```
-?> Don't forget use `rake db:migrate`
+!> Don't forget to use `rake db:migrate`
