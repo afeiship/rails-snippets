@@ -1,11 +1,23 @@
 # rails-snippets
-> Rails code snippets.
 
+A static site base on [dumi](https://d.umijs.org).
 
-## see:
-+ https://afeiship.github.io/rails-snippets/
+## Development
 
-## fork & edit:
 ```bash
-docsify serve ./docs
+# install dependencies
+$ pnpm install
+
+# start dev server
+$ pnpm start
+
+# build docs
+$ pnpm run build
+
+# Locally preview the production build
+$ pnpm run preview
 ```
+
+## LICENSE
+
+MIT
