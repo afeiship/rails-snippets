@@ -1,23 +1,9 @@
 ---
 title: A static site based on dumi
 hero:
-  title: Site
+  title: Rails
   description: Rails code snippets.
   actions:
-    - text: Hello
+    - text: Get Started
       link: /
-    - text: World
-      link: /
-features:
-  - title: Hello
-    emoji: 💎
-    description: Put hello description here
-  - title: World
-    emoji: 🌈
-    description: Put world description here
-  - title: '!'
-    emoji: 🚀
-    description: Put ! description here
 ---
-
-rails-snippets
